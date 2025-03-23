@@ -1,5 +1,4 @@
-# gen_models_hw3_vapnev
-HW3 Generative Models in Machine Learning
+# HW3 Generative Models in Machine Learning
 
 Please find vapnev.ipynb notebook with solutions and report.pdf
 
